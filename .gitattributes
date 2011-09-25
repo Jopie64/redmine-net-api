@@ -1,1 +1,10 @@
 * text=auto !eol
+Api/Api.csproj -text
+Api/Properties/AssemblyInfo.cs -text
+Api/Types/CustomField.cs -text
+/Local.testsettings -text
+Test/Properties/AssemblyInfo.cs -text
+Test/Test.csproj -text
+/TraceAndTestImpact.testsettings -text
+/redmine-net-api.sln -text
+/redmine-net-api.vsmdi -text

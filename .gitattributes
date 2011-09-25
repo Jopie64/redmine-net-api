@@ -3,6 +3,8 @@ Api/Api.csproj -text
 Api/Properties/AssemblyInfo.cs -text
 Api/Types/Attachment.cs -text
 Api/Types/CustomField.cs -text
+Api/Types/IdentifiableName.cs -text
+Api/Types/Issue.cs -text
 Api/Types/IssueRelation.cs -text
 Api/Types/News.cs -text
 Api/Types/Project.cs -text

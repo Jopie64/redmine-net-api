@@ -2,6 +2,10 @@
 Api/Api.csproj -text
 Api/Properties/AssemblyInfo.cs -text
 Api/Types/CustomField.cs -text
+Api/Types/IssueRelation.cs -text
+Api/Types/News.cs -text
+Api/Types/Project.cs -text
+Api/Types/User.cs -text
 /Local.testsettings -text
 Test/Properties/AssemblyInfo.cs -text
 Test/Test.csproj -text

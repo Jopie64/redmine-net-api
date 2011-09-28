@@ -1,6 +1,8 @@
 * text=auto !eol
 Api/Api.csproj -text
+Api/ExtensionMethods.cs -text
 Api/Properties/AssemblyInfo.cs -text
+Api/RedmineManager.cs -text
 Api/Types/Attachment.cs -text
 Api/Types/CustomField.cs -text
 Api/Types/IdentifiableName.cs -text
@@ -14,6 +16,7 @@ Api/Types/Version.cs -text
 /Local.testsettings -text
 Test/Properties/AssemblyInfo.cs -text
 Test/Test.csproj -text
+TestFiles/issues.xml -text
 /TraceAndTestImpact.testsettings -text
 /redmine-net-api.sln -text
 /redmine-net-api.vsmdi -text

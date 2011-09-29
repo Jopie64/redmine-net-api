@@ -15,6 +15,8 @@ Api/Types/User.cs -text
 Api/Types/Version.cs -text
 /Local.testsettings -text
 Test/Properties/AssemblyInfo.cs -text
+Test/RedmineManagerTest.cs -text
+Test/Test[!!-~]References/Redmine.Net.Api.accessor -text
 Test/Test.csproj -text
 TestFiles/issues.xml -text
 /TraceAndTestImpact.testsettings -text

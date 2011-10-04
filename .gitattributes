@@ -8,9 +8,12 @@ Api/Types/CustomField.cs -text
 Api/Types/IdentifiableName.cs -text
 Api/Types/Issue.cs -text
 Api/Types/IssueRelation.cs -text
+Api/Types/Membership.cs -text
 Api/Types/News.cs -text
 Api/Types/Project.cs -text
 Api/Types/Query.cs -text
+Api/Types/Role.cs -text
+Api/Types/TimeEntry.cs -text
 Api/Types/User.cs -text
 Api/Types/Version.cs -text
 /Local.testsettings -text

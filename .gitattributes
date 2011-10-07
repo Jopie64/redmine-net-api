@@ -5,6 +5,7 @@ Api/Properties/AssemblyInfo.cs -text
 Api/RedmineManager.cs -text
 Api/Types/Attachment.cs -text
 Api/Types/CustomField.cs -text
+Api/Types/Identifiable.cs -text
 Api/Types/IdentifiableName.cs -text
 Api/Types/Issue.cs -text
 Api/Types/IssueRelation.cs -text

@@ -23,6 +23,7 @@ Test/RedmineManagerTest.cs -text
 Test/Test[!!-~]References/Redmine.Net.Api.accessor -text
 Test/Test.csproj -text
 TestFiles/issues.xml -text
+TestFiles/projects.xml -text
 /TraceAndTestImpact.testsettings -text
 /redmine-net-api.sln -text
 /redmine-net-api.vsmdi -text

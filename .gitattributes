@@ -4,6 +4,7 @@ Api/ExtensionMethods.cs -text
 Api/Properties/AssemblyInfo.cs -text
 Api/RedmineManager.cs -text
 Api/Types/Attachment.cs -text
+Api/Types/ChangeSet.cs -text
 Api/Types/CustomField.cs -text
 Api/Types/Detail.cs -text
 Api/Types/Identifiable.cs -text
@@ -14,8 +15,10 @@ Api/Types/IssueRelation.cs -text
 Api/Types/IssueStatus.cs -text
 Api/Types/Journal.cs -text
 Api/Types/Membership.cs -text
+Api/Types/MembershipRole.cs -text
 Api/Types/News.cs -text
 Api/Types/Project.cs -text
+Api/Types/ProjectMembership.cs -text
 Api/Types/Query.cs -text
 Api/Types/Role.cs -text
 Api/Types/TimeEntry.cs -text

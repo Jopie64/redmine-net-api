@@ -19,6 +19,7 @@ Api/Types/MembershipRole.cs -text
 Api/Types/News.cs -text
 Api/Types/Project.cs -text
 Api/Types/ProjectMembership.cs -text
+Api/Types/ProjectTracker.cs -text
 Api/Types/Query.cs -text
 Api/Types/Role.cs -text
 Api/Types/TimeEntry.cs -text

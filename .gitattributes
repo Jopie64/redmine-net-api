@@ -24,6 +24,7 @@ Api/Types/Query.cs -text
 Api/Types/Role.cs -text
 Api/Types/TimeEntry.cs -text
 Api/Types/Tracker.cs -text
+Api/Types/Upload.cs -text
 Api/Types/User.cs -text
 Api/Types/Version.cs -text
 /Local.testsettings -text

@@ -1,6 +1,7 @@
 * text=auto !eol
 Api/Api.csproj -text
 Api/ExtensionMethods.cs -text
+Api/IssueWithAttachment.patch -text
 Api/Properties/AssemblyInfo.cs -text
 Api/RedmineManager.cs -text
 Api/Types/Attachment.cs -text

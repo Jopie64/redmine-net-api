@@ -42,6 +42,7 @@ Test/Thumbs.db
 Test/_ReSharper*
 Test/bin
 Test/obj
+/TestFiles
 /Thumbs.db
 /_ReSharper*
 /bin

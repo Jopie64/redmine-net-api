@@ -28,6 +28,7 @@ Api/Types/Tracker.cs -text
 Api/Types/Upload.cs -text
 Api/Types/User.cs -text
 Api/Types/Version.cs -text
+Api/update_custom_fields_20120510.patch -text
 /Local.testsettings -text
 Test/Properties/AssemblyInfo.cs -text
 Test/RedmineManagerTest.cs -text

@@ -8,6 +8,7 @@ Api/Types/Attachment.cs -text
 Api/Types/ChangeSet.cs -text
 Api/Types/CustomField.cs -text
 Api/Types/Detail.cs -text
+Api/Types/Error.cs -text
 Api/Types/Group.cs -text
 Api/Types/Identifiable.cs -text
 Api/Types/IdentifiableName.cs -text

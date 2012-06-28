@@ -47,3 +47,4 @@ Test/obj
 /_ReSharper*
 /bin
 /obj
+/versionsTest.xml

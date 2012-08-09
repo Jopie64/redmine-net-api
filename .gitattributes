@@ -31,6 +31,7 @@ Api/Types/Upload.cs -text
 Api/Types/User.cs -text
 Api/Types/UserGroup.cs -text
 Api/Types/Version.cs -text
+Api/Whitespace.patch -text
 Api/create_issue_with_start_and_due_date.patch -text
 Api/parse_version_name_fix_20120516.patch -text
 Api/update_custom_fields_20120510.patch -text

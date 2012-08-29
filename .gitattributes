@@ -1,9 +1,12 @@
 * text=auto !eol
 Api/Api.csproj -text
+Api/ExtensionAttribute.cs -text
 Api/ExtensionMethods.cs -text
 Api/IssueWithAttachment.patch -text
 Api/Properties/AssemblyInfo.cs -text
+Api/RedmineException.cs -text
 Api/RedmineManager.cs -text
+Api/RedmineWebClient.cs -text
 Api/Types/Attachment.cs -text
 Api/Types/ChangeSet.cs -text
 Api/Types/CustomField.cs -text

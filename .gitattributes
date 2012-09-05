@@ -1,5 +1,6 @@
 * text=auto !eol
 Api/Api.csproj -text
+Api/AttachmentDetailUser_Patches.patch -text
 Api/ExtensionAttribute.cs -text
 Api/ExtensionMethods.cs -text
 Api/GetTotalObjectList.patch -text

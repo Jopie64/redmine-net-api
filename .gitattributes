@@ -8,7 +8,9 @@ Api/IssueWithAttachment.patch -text
 Api/Properties/AssemblyInfo.cs -text
 Api/RedmineException.cs -text
 Api/RedmineManager.cs -text
+Api/RedmineSerialization.cs -text
 Api/RedmineWebClient.cs -text
+Api/ReturnCreatedObject_RedmineManager.cs.patch -text
 Api/Types/Attachment.cs -text
 Api/Types/ChangeSet.cs -text
 Api/Types/CustomField.cs -text

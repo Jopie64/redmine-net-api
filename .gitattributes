@@ -14,6 +14,7 @@ Api/JSonConverters/GroupConverter.cs -text
 Api/JSonConverters/IdentifiableNameConverter.cs -text
 Api/JSonConverters/IssueCategoryConverter.cs -text
 Api/JSonConverters/IssueConverter.cs -text
+Api/JSonConverters/IssuePriorityConverter.cs -text
 Api/JSonConverters/IssueRelationConverter.cs -text
 Api/JSonConverters/IssueStatusConverter.cs -text
 Api/JSonConverters/JournalConverter.cs -text
@@ -25,12 +26,14 @@ Api/JSonConverters/ProjectMembershipConverter.cs -text
 Api/JSonConverters/ProjectTrackerConverter.cs -text
 Api/JSonConverters/QueryConverter.cs -text
 Api/JSonConverters/RoleConverter.cs -text
+Api/JSonConverters/TimeEntryActivityConverter.cs -text
 Api/JSonConverters/TimeEntryConverter.cs -text
 Api/JSonConverters/TrackerConverter.cs -text
 Api/JSonConverters/UploadConverter.cs -text
 Api/JSonConverters/UserConverter.cs -text
 Api/JSonConverters/UserGroupConverter.cs -text
 Api/JSonConverters/VersionConverter.cs -text
+Api/JSonConverters/WikiPageConverter.cs -text
 Api/Properties/AssemblyInfo.cs -text
 Api/RedmineException.cs -text
 Api/RedmineManager.cs -text

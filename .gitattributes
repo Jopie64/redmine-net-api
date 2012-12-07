@@ -37,6 +37,7 @@ Api/JSonConverters/WikiPageConverter.cs -text
 Api/Properties/AssemblyInfo.cs -text
 Api/RedmineException.cs -text
 Api/RedmineManager.cs -text
+Api/RedmineManager.cs.patch -text
 Api/RedmineSerialization.cs -text
 Api/RedmineWebClient.cs -text
 Api/ReturnCreatedObject_RedmineManager.cs.patch -text

@@ -1,6 +1,7 @@
 * text=auto !eol
 Api/Api.csproj -text
 Api/AttachmentDetailUser_Patches.patch -text
+Api/DataContractJson/ProjectSerializer.cs -text
 Api/ExtensionAttribute.cs -text
 Api/ExtensionMethods.cs -text
 Api/GetTotalObjectList.patch -text
@@ -34,11 +35,14 @@ Api/JSonConverters/UserConverter.cs -text
 Api/JSonConverters/UserGroupConverter.cs -text
 Api/JSonConverters/VersionConverter.cs -text
 Api/JSonConverters/WikiPageConverter.cs -text
+Api/MimeFormat.cs -text
 Api/Properties/AssemblyInfo.cs -text
 Api/RedmineException.cs -text
 Api/RedmineManager.cs -text
 Api/RedmineManager.cs.patch -text
+Api/RedmineManagerAsync.cs -text
 Api/RedmineSerialization.cs -text
+Api/RedmineSerializationJSON.cs -text
 Api/RedmineWebClient.cs -text
 Api/ReturnCreatedObject_RedmineManager.cs.patch -text
 Api/Types/Attachment.cs -text

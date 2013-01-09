@@ -75,6 +75,7 @@ Api/Types/User.cs -text
 Api/Types/UserGroup.cs -text
 Api/Types/Version.cs -text
 Api/Types/WikiPage.cs -text
+Api/UploadDescription.patch -text
 Api/Whitespace.patch -text
 Api/create_issue_with_start_and_due_date.patch -text
 Api/parse_version_name_fix_20120516.patch -text

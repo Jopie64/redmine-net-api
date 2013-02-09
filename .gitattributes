@@ -1,6 +1,7 @@
 * text=auto !eol
 Api/Api.csproj -text
 Api/AttachmentDetailUser_Patches.patch -text
+Api/ChangeLog.txt -text
 Api/DataContractJson/ProjectSerializer.cs -text
 Api/ExtensionAttribute.cs -text
 Api/ExtensionMethods.cs -text
@@ -22,6 +23,7 @@ Api/JSonConverters/JournalConverter.cs -text
 Api/JSonConverters/MembershipConverter.cs -text
 Api/JSonConverters/MembershipRoleConverter.cs -text
 Api/JSonConverters/NewsConverter.cs -text
+Api/JSonConverters/PermissionConverter.cs -text
 Api/JSonConverters/ProjectConverter.cs -text
 Api/JSonConverters/ProjectMembershipConverter.cs -text
 Api/JSonConverters/ProjectTrackerConverter.cs -text
@@ -37,6 +39,8 @@ Api/JSonConverters/VersionConverter.cs -text
 Api/JSonConverters/WikiPageConverter.cs -text
 Api/MimeFormat.cs -text
 Api/Properties/AssemblyInfo.cs -text
+Api/ReadElementAfterReadingRole.patch -text
+Api/ReadEmptyElementList.patch -text
 Api/RedmineException.cs -text
 Api/RedmineManager.cs -text
 Api/RedmineManager.cs.patch -text
@@ -48,6 +52,7 @@ Api/ReturnCreatedObject_RedmineManager.cs.patch -text
 Api/Types/Attachment.cs -text
 Api/Types/ChangeSet.cs -text
 Api/Types/CustomField.cs -text
+Api/Types/CustomFieldValue.cs -text
 Api/Types/Detail.cs -text
 Api/Types/Error.cs -text
 Api/Types/Group.cs -text
@@ -62,6 +67,7 @@ Api/Types/Journal.cs -text
 Api/Types/Membership.cs -text
 Api/Types/MembershipRole.cs -text
 Api/Types/News.cs -text
+Api/Types/Permission.cs -text
 Api/Types/Project.cs -text
 Api/Types/ProjectMembership.cs -text
 Api/Types/ProjectTracker.cs -text

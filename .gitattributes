@@ -38,9 +38,11 @@ Api/JSonConverters/UploadConverter.cs -text
 Api/JSonConverters/UserConverter.cs -text
 Api/JSonConverters/UserGroupConverter.cs -text
 Api/JSonConverters/VersionConverter.cs -text
+Api/JSonConverters/WatcherConverter.cs -text
 Api/JSonConverters/WikiPageConverter.cs -text
 Api/MimeFormat.cs -text
 Api/ParseTimeEntryCorrectly.patch -text
+Api/ProjectReadIssueCategories.patch -text
 Api/Properties/AssemblyInfo.cs -text
 Api/ReadElementAfterReadingRole.patch -text
 Api/ReadEmptyElementList.patch -text
@@ -73,6 +75,7 @@ Api/Types/MembershipRole.cs -text
 Api/Types/News.cs -text
 Api/Types/Permission.cs -text
 Api/Types/Project.cs -text
+Api/Types/ProjectIssueCategory.cs -text
 Api/Types/ProjectMembership.cs -text
 Api/Types/ProjectTracker.cs -text
 Api/Types/Query.cs -text
@@ -84,6 +87,7 @@ Api/Types/Upload.cs -text
 Api/Types/User.cs -text
 Api/Types/UserGroup.cs -text
 Api/Types/Version.cs -text
+Api/Types/Watcher.cs -text
 Api/Types/WikiPage.cs -text
 Api/UploadDescription.patch -text
 Api/Whitespace.patch -text
